@@ -1,0 +1,36 @@
+@charset "utf-8";
+/*login.php*/
+.login-input {
+	position: absolute;
+	top: 200px;
+	height: 300px;
+	width: 100%;
+	background-color: #FFC;
+}
+.vipt1 {
+	font-size: 1em;
+	color: #C0C;
+}
+.vipt2 {
+	font-size: 1em;
+}
+/*center.php*/
+.vipt3 {
+	font-size: 2em;
+}
+.vipt4 {
+	font-size: 2em;
+	font-family: "华文彩云";
+	color: #C0C;
+}
+.vipt5 {
+	text-align: center;
+}
+.center-1 {
+	position: absolute;
+	top: 200px;
+	left: 18%;
+	display: inline;
+	width: 85%;
+}
+
