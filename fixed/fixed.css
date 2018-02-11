@@ -1,0 +1,97 @@
+/* 
+	YuxuanWang-CHINA 
+	project1
+	简单的会员与页眉页脚系统
+	
+	MIT License
+	Copyright (c) 2018 Yuxuan_Wang
+*/
+@charset "utf-8";
+a:link {color: #C3C;}		/*未访问链接*/
+a:visited {color: #C3C;}	/*已访问链接 */
+a:hover {}		/*鼠标移动到链接上 */
+a:active {}		/*鼠标点击时 */
+p {font-family: "黑体";}
+a {font-family: "黑体";}
+/* header.php */
+.fixed1 {
+	background: linear-gradient(#D0D0D0,white);
+	height: 30px;
+	width: 100%;
+	position: fixed;
+	z-index:998;
+}
+.fixed2 {
+	position: fixed;
+	right: 15%;
+}
+.logout {
+	color: #c3c;
+	text-decoration:underline;
+	font-family: "黑体";
+}
+/* wait */
+#wait {
+	width: 500px;
+	height: 100px;
+	border-style: solid;
+	border-width: medium;
+	position: fixed;
+	top: 30%;
+	left: 30%;
+	z-index: 1000;
+	background-color: white;
+}
+.fixedt4 {
+	font-size: 2em;
+	position: relative;
+	left: 60px;	
+}
+.fixed6 {
+	position: fixed;
+	top: 38%;
+	left: 50%;
+	background: linear-gradient(to left,#EAAC0B,#F00);;
+	height: 10px;
+	width: 200px;	
+}
+/* footer.php */
+.fixed3 {
+	background-color: #EBEBEB;
+	height: 100px;
+	width: 100%;
+	position: relative;
+	top: 200px;
+}
+.fixedt1 {
+	position: absolute;
+	bottom: 0px;
+	right: 20px;
+}
+/* top.php */
+.fixedt2 {
+	font-size: 2em;
+	color: #333;
+}
+.fixed5 {
+	position: absolute;
+	top: 30px;
+	left: 80%;
+	display: inline;
+}
+.fixedt3 {
+	font-family: "华文新魏";
+	font-size: 4em;
+	position: relative;
+	top: -80px;
+	background: linear-gradient(to left,red,yellow);
+}
+.fixed4 {
+	height: 144px;
+	width: 100%;
+	background: linear-gradient(to left, #F1EDC5,#E4EC5E);
+	z-index: 0;
+	position: absolute;
+	top: 45px;
+	z-index:998;
+}
