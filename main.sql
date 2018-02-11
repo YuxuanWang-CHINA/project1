@@ -1,5 +1,13 @@
 /*
-SQLyog Ultimate v11.27 (32 bit)
+	YuxuanWang-CHINA 
+	project1
+	简单的会员与页眉页脚系统
+	
+	MIT License
+	Copyright (c) 2018 Yuxuan_Wang
+*/
+	
+/*
 MySQL - 5.7.14 : Database - project1
 *********************************************************************
 */

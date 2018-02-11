@@ -1,3 +1,11 @@
+<!--
+	YuxuanWang-CHINA 
+	project1
+	简单的会员与页眉页脚系统
+	
+	MIT License
+	Copyright (c) 2018 Yuxuan_Wang
+-->
 <div class="fixed4">
 	<a href="/project1/index.php"><img src="/project1/sign.png" width="20%" height="144" alt="主页" ></a>
 	<a class="fixedt3">欢迎来到王宇轩的网站</a>
