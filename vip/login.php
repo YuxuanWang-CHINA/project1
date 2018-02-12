@@ -27,7 +27,7 @@ session_start();
 		$objResponse->script("alert('Please insert!');flashstop();");
 		}
 			else{
-			$mysqli=new mysqli("localhost","project1","154yjf6jf_project1","project1");
+			$mysqli=new mysqli("please_input","please_input","please_input","project1");
 			$sql="SELECT password,power FROM userlist WHERE username=\"".$username."\"";
 			$result=mysqli_query($mysqli,$sql);
 			if($arr=mysqli_fetch_array($result))
