@@ -13,4 +13,5 @@ YuxuanWang-CHINA
 
 依赖于：
 		
+		mysql数据库，并在login.php中输入对应登录信息。【数据库结构可通过main.sql导入】
 		xajax。
